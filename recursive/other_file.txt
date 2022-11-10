@@ -10,4 +10,3 @@ Add a markdown code snippet on line 2
 # test data for Launch Darkly
 
 Add a markdown comment on line 12
-Add a markdown code snippet on line 13
