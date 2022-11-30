@@ -6,3 +6,4 @@ Add a markdown code snippet here
 Test Data
 ---------
 1 markdown code snippet
+An example markdown code snippet
